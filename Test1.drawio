@@ -1,9 +1,54 @@
-<mxfile host="app.diagrams.net" modified="2024-06-02T13:31:15.310Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" version="24.4.13" etag="c5ObSGootUkJXkke90ZY" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-02T13:39:42.885Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="mtZWLhacBzxudBd2JNn4" version="24.4.13" type="github">
   <diagram name="Page-1" id="Tm1GM2gIcsKko5YPn2A1">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="NrlwTm2IImmcUiFZrzmz-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NrlwTm2IImmcUiFZrzmz-2" target="NrlwTm2IImmcUiFZrzmz-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NrlwTm2IImmcUiFZrzmz-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="NrlwTm2IImmcUiFZrzmz-2" target="NrlwTm2IImmcUiFZrzmz-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NrlwTm2IImmcUiFZrzmz-2" value="IB PYP" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="365" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NrlwTm2IImmcUiFZrzmz-3" value="ATL Skills" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NrlwTm2IImmcUiFZrzmz-5" value="Learner Profiles" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NrlwTm2IImmcUiFZrzmz-7" value="Social Skills" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="210" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NrlwTm2IImmcUiFZrzmz-8" value="Research Skills" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="260" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NrlwTm2IImmcUiFZrzmz-9" value="Thinking Skills" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="310" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NrlwTm2IImmcUiFZrzmz-10" value="Comunication Skills" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="212.5" y="360" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NrlwTm2IImmcUiFZrzmz-11" value="Self-Management Skills" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="207.5" y="410" width="125" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NrlwTm2IImmcUiFZrzmz-14" value="Social Skills" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="545" y="210" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NrlwTm2IImmcUiFZrzmz-15" value="Research Skills" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="545" y="260" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NrlwTm2IImmcUiFZrzmz-16" value="Thinking Skills" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="545" y="310" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NrlwTm2IImmcUiFZrzmz-17" value="Comunication Skills" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="532.5" y="360" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NrlwTm2IImmcUiFZrzmz-18" value="Self-Management Skills" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="527.5" y="410" width="125" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
